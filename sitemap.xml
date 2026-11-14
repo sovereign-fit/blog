@@ -6,7 +6,7 @@
     document itself. Add new canonical URLs here as the site grows.
   -->
   <url>
-    <loc>https://blog.sovereignaisystems.co/</loc>
+    <loc>https://updates.sovereignaisystems.co/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <lastmod>2026-11-14</lastmod>
