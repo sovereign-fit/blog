@@ -16,4 +16,4 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-Sitemap: https://blog.sovereignaisystems.co/sitemap.xml
+Sitemap: https://updates.sovereignaisystems.co/sitemap.xml
